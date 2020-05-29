@@ -1,7 +1,7 @@
 <?php
 	header('Content-type: application/json');
 	$status = array(
-		'type'=>'success',
+		'type'=>'success ATENTION_this line  i modified for GIT test',
 		'message'=>'Thank you for contact us. As early as possible  we will contact you '
 	);
 
